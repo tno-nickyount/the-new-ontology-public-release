@@ -19,23 +19,19 @@ This release is organized into five major folders:
 - 🧪 *Invitation for Open Critique* — Call for public review and structural engagement
 
 ### **2. The New Ontology**
-- 🔹 *ReadMe – The New Ontology* — Preface and guide to the treatise
 - 📘 *The New Ontology.pdf* — Formal treatise presenting the full framework
 - 📗 *Glossary.pdf* — Definitions of all key terms
 - 📙 *Symbolic Foundation.pdf* — Condensed symbolic form of the ontology
 
 ### **3. Supplementary Essays**
-- 🔹 *ReadMe – Supplementary Essays*  
 - Ten essays exploring specific structural domains:
   - Domains, Objects, Meaning, Time, Obligation, Recursion, Death, AI, etc.
 
 ### **4. Confrontations Archive**
-- 🔹 *ReadMe – Confrontations*
 - Full dialectical engagement with:
   - Structural Realism, Process Philosophy, Platonism, Heidegger, and more
 
 ### **5. Applications and Implications**
-- 🔹 *ReadMe – Applications and Implications*
 - Six interdisciplinary essays applying the framework to:
   - Formal logic, moral systems, AI cognition, evolutionary structure, etc.
 
@@ -51,23 +47,18 @@ To preserve clarity and conceptual flow, we recommend the following order:
    - Then: *Invitation for Open Critique*
 
 2. **The New Ontology Folder**  
-   - Begin with: *ReadMe – The New Ontology*  
-   - Then read:  
-     - *The New Ontology.pdf*  
-     - *Glossary.pdf*  
-     - *Symbolic Foundation.pdf*
+   - Begin with:
+     - *The New Ontology.pdf* and *Glossary.pdf*  
+     - Then read *Symbolic Foundation.pdf*
 
 3. **Supplementary Essays**  
-   - Read *ReadMe – Supplementary Essays*  
-   - Then proceed through Essays 1–10 in order
+   - Read Essays 1–10 in order
 
 4. **Confrontations Archive**  
-   - Begin with *ReadMe – Confrontations*  
-   - Then read both parts of the Confrontations Archive
+   - Read all documents comprising the Confrontations Archive
 
 5. **Applications and Implications**  
-   - Begin with *ReadMe – Applications and Implications*  
-   - Then read essays 1–6 in order
+   - Read essays 1–6 in order
 
 This sequence reflects the intended structure of the project:
 - **Core claims** → **Expanded arguments** → **Structural resistance** → **Real-world contact**
