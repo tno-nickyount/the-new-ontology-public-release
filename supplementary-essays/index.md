@@ -16,3 +16,7 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 - [The Structure of Obligation](/the-new-ontology---public-release/supplementary-essays/8-structure-of-obligation.html)
 - [Death and the End of Recursion](/the-new-ontology---public-release/supplementary-essays/9-death-and-the-end-of-recursion.html)
 - [Quantum Resolution and the Structure of Possibility](/the-new-ontology---public-release/supplementary-essays/10-quantum-resolution-possibility.html)
+
+---
+
+[← Back to Home](/the-new-ontology---public-release/)
