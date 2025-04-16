@@ -7,17 +7,15 @@ This body of work — the *New Ontology Treatise*, *Glossary*, *Supplementary Es
 
 This framework proposes a structural model of reality that resolves the traditional divisions between matter and meaning, fact and value, mind and body, self and system. It defines reality not as substance but as structure, where **coherence is the criterion for existence**, and **contradiction is the signature of collapse**. It offers a rigorously defined account of ethics, identity, obligation, causality, and experience — unified under a non-dual, domain-partitioned ontology.
 
-This marks the first complete public articulation of the framework.
-
 ---
 
 ### 📌 Authorship
 
-Version 1.0 of this body of work was authored in full by:
+This body of work was authored in full by:
 
 **Nicholas Everett Yount**  
 *Signed: /s/ Nicholas Everett Yount*  
-*Date: April 13, 2025*
+*Date of initial public release (v1.0): April 13, 2025*
 
 > *(This digital signature affirms authorship and intent for permanent public release.)*
 
