@@ -7,7 +7,7 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 ## Available Essays
 
 - [Domains as Structured Fields of Action](/the-new-ontology---public-release/supplementary-essays/1-domains-as-structured-fields.html)
-- [The Relationship of Objects and Forms](essays/the-relationship-of-objects-and-forms.md)
+- [The Relationship of Objects and Forms](/the-new-ontology---public-release/supplementary-essays/2-relationship-of-objects-and-forms.html)
 - [Mathematics as Meaning](essays/mathematics-as-meaning.md)
 - [Force, Causality, and the Grammar of Structural Necessity](essays/force-causality-and-the-grammar-of-structural-necessity.md)
 - [Time, Identity, and the Coherence of the Self](essays/time-identity-and-the-coherence-of-the-self.md)
