@@ -21,7 +21,7 @@ This site contains the complete v1.1 release of the project, including:
 📂 **Browse Core Materials:**
 - [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary/)
 - [Supplementary Essays](supplementary-essays)
-- [Confrontations Archive](./)
+- [Confrontations Archive](/the-new-ontology---public-release/confrontations/)
 - [Applications and Implications](./)
 
 ---
