@@ -7,7 +7,7 @@ layout: default
 
 Welcome to the public digital archive of **The New Ontology**, a unified ontological framework designed to reconcile force and meaning, structure and presence, ethics and experience.
 
-This site contains the complete v1.0 release of the project, including:
+This site contains the complete v1.1 release of the project, including:
 
 - **The Treatise** and **Glossary**
 - **Supplementary Essays**
