@@ -10,7 +10,7 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 - [The Relationship of Objects and Forms](/the-new-ontology---public-release/supplementary-essays/2-relationship-of-objects-and-forms.html)
 - [Mathematics as Meaning](/the-new-ontology---public-release/supplementary-essays/3-mathematics-as-meaning.html)
 - [Force, Causality, and the Grammar of Structural Necessity](/the-new-ontology---public-release/supplementary-essays/4-force-causality-grammar.html)
-- [Time, Identity, and the Coherence of the Self](essays/time-identity-and-the-coherence-of-the-self.md)
+- [Time, Identity, and the Coherence of the Self](/the-new-ontology---public-release/supplementary-essays/5-time-identity-coherence.html)
 - [Systems — Emergence, Recursion, Collapse](essays/systems-emergence-recursion-collapse.md)
 - [AI and the Threshold of Experience](essays/ai-and-the-threshold-of-experience.md)
 - [The Structure of Obligation](essays/the-structure-of-obligation.md)
