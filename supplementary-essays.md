@@ -12,7 +12,7 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 - [Force, Causality, and the Grammar of Structural Necessity](/the-new-ontology---public-release/supplementary-essays/4-force-causality-grammar.html)
 - [Time, Identity, and the Coherence of the Self](/the-new-ontology---public-release/supplementary-essays/5-time-identity-coherence.html)
 - [Systems – Emergence, Recursion, Collapse](/the-new-ontology---public-release/supplementary-essays/6-systems-emergence-recursion-collapse.html)
-- [AI and the Threshold of Experience](essays/ai-and-the-threshold-of-experience.md)
+- [AI and the Threshold of Experience](/the-new-ontology---public-release/supplementary-essays/7-ai-threshold-experience.html)
 - [The Structure of Obligation](essays/the-structure-of-obligation.md)
 - [Death and the End of Recursion](essays/death-and-the-end-of-recursion.md)
 - [Quantum Resolution and the Structure of Possibility](essays/quantum-resolution-and-the-structure-of-possibility.md)
