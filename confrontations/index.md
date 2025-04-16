@@ -33,7 +33,7 @@ Each confrontation will follow a consistent format:
 
 ## 🔍 Completed Confrontations
 
-- [Confrontation: Barthes – Semiotics vs. the Ontology of Meaning](barthes-confrontation.html)
+- [Barthes](barthes-confrontation.html) – *Semiotics vs. the Ontology of Meaning*
 
 ---
 
