@@ -19,10 +19,10 @@ This site contains the complete v1.1 release of the project, including:
 - [Read the Public Release Overview](/the-new-ontology---public-release/overview/)
 
 📂 **Browse Core Materials:**
-- [Treatise and Glossary](/treatise-and-glossary/)
-- [Supplementary Essays](/supplementary-essays/)
-- [Confrontations Archive](/confrontations/)
-- [Applications and Implications](/applications/)
+- [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary/)
+- [Supplementary Essays](/the-new-ontology---public-release/supplementary-essays/)
+- [Confrontations Archive](/the-new-ontology---public-release/confrontations/)
+- [Applications and Implications](/the-new-ontology---public-release/applications/)
 
 ---
 
