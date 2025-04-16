@@ -31,10 +31,9 @@ Each confrontation will follow a consistent format:
 
 ---
 
-## Status
+## 🔍 Completed Confrontations
 
-Confrontation documents are currently being prepared.  
-Entries will appear here as they are formalized.
+- [Confrontation: Barthes – Semiotics vs. the Ontology of Meaning](barthes-confrontation.html)
 
 ---
 
