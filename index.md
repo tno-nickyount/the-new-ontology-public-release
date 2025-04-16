@@ -19,7 +19,7 @@ This site contains the complete v1.0 release of the project, including:
 - [Read the Public Release Overview](./+%20ReadMe%20-%20Public%20Release.txt)
 
 📂 **Browse Core Materials:**
-- [Treatise and Glossary](./)
+- [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary/)
 - [Supplementary Essays](supplementary-essays)
 - [Confrontations Archive](./)
 - [Applications and Implications](./)
