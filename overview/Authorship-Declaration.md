@@ -48,7 +48,7 @@ This release is shared under the
 > You may **not** use the material for commercial purposes.  
 > You may **not** remix, transform, or build upon the material in any way without explicit permission.
 
-🔗 [View full license details](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+🔗 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener noreferrer">View full license details</a>
 
 ---
 
