@@ -13,7 +13,7 @@ Each text serves a foundational purpose: to explain, license, and invite structu
 - [🧾 Authorship Declaration](Authorship-Declaration.md)  
   A formal statement of authorship and licensing, asserting originality and clarifying usage permissions under CC BY-NC-ND 4.0.
 
-- [🧪 Invitation for Open Critique](/the-new-ontology---public-release/assets/pdfs/Invitation-for-Open-Critique.pdf)  
+- [🖋 Invitation for Open Critique](Invitation-Critique.md)  
   An open call to the public for rigorous review, critique, and structural engagement with the framework and its claims.
 
 ---
