@@ -11,7 +11,7 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 - [Mathematics as Meaning](/the-new-ontology---public-release/supplementary-essays/3-mathematics-as-meaning.html)
 - [Force, Causality, and the Grammar of Structural Necessity](/the-new-ontology---public-release/supplementary-essays/4-force-causality-grammar.html)
 - [Time, Identity, and the Coherence of the Self](/the-new-ontology---public-release/supplementary-essays/5-time-identity-coherence.html)
-- [Systems — Emergence, Recursion, Collapse](essays/systems-emergence-recursion-collapse.md)
+- [Systems – Emergence, Recursion, Collapse](/the-new-ontology---public-release/supplementary-essays/6-systems-emergence-recursion-collapse.html)
 - [AI and the Threshold of Experience](essays/ai-and-the-threshold-of-experience.md)
 - [The Structure of Obligation](essays/the-structure-of-obligation.md)
 - [Death and the End of Recursion](essays/death-and-the-end-of-recursion.md)
