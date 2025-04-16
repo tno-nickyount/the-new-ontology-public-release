@@ -80,3 +80,8 @@ For questions, critiques, or proposals:
 **thenewontology@gmail.com**
 
 Thank you for reading.
+
+---
+
+[← Back to Overview](/the-new-ontology---public-release/overview/)
+
