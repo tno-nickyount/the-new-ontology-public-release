@@ -23,7 +23,7 @@ This body of work was authored in full by:
 
 ### 🗂 Arweave Record
 
-The full contents of this release — including the original Authorship Declaration — are permanently archived and cryptographically timestamped on the **Arweave network**.
+The full contents of the initial public release — including the original Authorship Declaration — are permanently archived and cryptographically timestamped on the **Arweave network**.
 
 > This record serves as a verifiable snapshot of authorship and structural coherence at the time of first public release. Future releases will be added to this folder.
 
