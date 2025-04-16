@@ -7,7 +7,7 @@ Each text serves a foundational purpose: to explain, license, and invite structu
 
 ## Available Documents
 
-- [📘 ReadMe – Public Release](/the-new-ontology---public-release/assets/pdfs/ReadMe-Public-Release.pdf)  
+- [📘 ReadMe – Public Release](/the-new-ontology---public-release/overview/ReadMe-Public-Release)
   A top-level guide to the structure, content, and purpose of the New Ontology public release.
 
 - [📜 Authorship Declaration](/the-new-ontology---public-release/assets/pdfs/Authorship-Declaration.pdf)  
