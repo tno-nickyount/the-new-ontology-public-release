@@ -8,10 +8,6 @@ They are designed to be read together, in sequence or by reference.
 
 ## Available Documents
 
-## Available Documents
-
-## Available Documents
-
 - [📘 The New Ontology — Main Treatise](/the-new-ontology---public-release/assets/pdfs/The-New-Ontology.pdf)  
   A complete exposition of the ontological structure underlying all domains of presence, coherence, and experience.
 
