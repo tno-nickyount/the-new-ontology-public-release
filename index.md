@@ -15,8 +15,8 @@ This site contains the complete v1.0 release of the project, including:
 - **Applications and Implications**
 - **Authorship and Public Declaration**
 
-📘 **Start Here:**
-- [Read the Public Release Overview](./+%20ReadMe%20-%20Public%20Release.txt)
+## 📘 Public Overview and Release Documents:
+- [Read the Public Release Overview](/the-new-ontology---public-release/overview/)
 
 📂 **Browse Core Materials:**
 - [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary/)
