@@ -20,7 +20,7 @@ This site contains the complete v1.0 release of the project, including:
 
 📂 **Browse Core Materials:**
 - [Treatise and Glossary](./)
-- [Supplementary Essays](./)
+- [Supplementary Essays](supplementary-essays)
 - [Confrontations Archive](./)
 - [Applications and Implications](./)
 
