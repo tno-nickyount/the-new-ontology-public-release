@@ -52,4 +52,4 @@ This release is shared under the
 
 ---
 
-[← Back to Overview](/the-new-ontology---public-release/overview/)
+[← Return to Home](/The-New-Ontology-Public-Release/)
