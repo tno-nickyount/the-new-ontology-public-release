@@ -41,4 +41,4 @@ Researchers, theorists, and designers from any domain are invited to:
 
 ---
 
-[← Back to Home](/the-new-ontology---public-release/)
+[← Return to Home](/The-New-Ontology-Public-Release/)
