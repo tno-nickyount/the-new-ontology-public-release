@@ -33,48 +33,57 @@ Each confrontation will follow a consistent format:
 
 ## 🔍 Completed Confrontations
 
-- [BARTHES, Roland](barthes-confrontation.html) – *Semiotics vs. the Ontology of Meaning*  
-- [BLACKMORE, Susan](blackmore-confrontation.html) – *Illusionism vs. Structural Experience*  
-- [CHALMERS, David](chalmers-confrontation.html) – *Hard Problem vs. Dual-Domain Structure*  
-- [CHURCHLAND, Paul](churchland-confrontation.html) – *Eliminativism vs. Ontological Presence*  
-- [DALLETT, Daniel](dennett-confrontation.html) – *Intentional Stance vs. Aetherial Reality*  
-- [DESCARTES, René](descartes-confrontation.html) – *Cogito vs. Structural Identity*  
-- [DEWEY, John](dewey-confrontation.html) – *Instrumentalism vs. Structural Fidelity*  
-- [DERRIDA, Jacques](derrida-confrontation.html) – *Différance vs. Structural Meaning*  
-- [FOUCAULT, Michel](foucault-confrontation.html) – *Power-Knowledge vs. Structural Constraint*  
-- [GOFFMAN, Erving](goffman-confrontation.html) – *Presentation vs. Structural Selfhood*  
-- [GÖDEL, Kurt](godel-confrontation.html) – *Incompleteness vs. Structural Coherence*  
-- [GOODMAN, Nelson](goodman-confrontation.html) – *Worldmaking vs. Structural Reality*  
-- [HABERMAS, Jürgen](habermas-confrontation.html) – *Communicative Rationality vs. Ontological Structure*  
-- [HARRIS, Annaka](harris-annaka-confrontation.html) – *Panpsychism vs. Structural Experience*  
-- [HARRIS, Sam](harris-sam-confrontation.html) – *Moral Science vs. Ontological Ground*  
-- [HEIDEGGER, Martin](heidegger-confrontation.html) – *Being-in-the-World vs. Ontological Structure*  
-- [HUME, David](hume-confrontation.html) – *Empirical Skepticism vs. Aetherial Coherence*  
-- [JACKSON, Frank](jackson-confrontation.html) – *The Knowledge Argument vs. Structural Dual-Domain Ontology*  
-- [JAMES, William](james-confrontation.html) – *Pragmatism and Pluralism vs. Structural Truth*  
-- [JOHNSON, Mark & LAKOFF, George](lakoff-johnson-confrontation.html) – *Embodied Cognition vs. Structural Independence*  
-- [KUHN, Thomas](kuhn-confrontation.html) – *Paradigm Shifts vs. Structural Continuity*  
-- [LAKATOS, Imre](lakatos-confrontation.html) – *Research Programs vs. Ontological Constraint*  
-- [LEIBNIZ, Gottfried Wilhelm](leibniz-confrontation.html) – *Monads vs. the Structural Multiplicity of Experience*  
-- [LEVINAS, Emmanuel](levinas-confrontation.html) – *Ethics as First Philosophy vs. Structural Grounding of Obligation*  
-- [LÉVI-STRAUSS, Claude](levi-strauss-confrontation.html) – *Structuralism vs. Structural Ontology*  
-- [MACINTYRE, Alasdair](macintyre-confrontation.html) – *Moral Tradition vs. Structural Obligation*  
-- [METZINGER, Thomas](metzinger-confrontation.html) – *No-Self Theory vs. Structural Continuity of Identity*  
-- [NAGEL, Thomas](nagel-confrontation.html) – *Subjective Perspective vs. Domain Structure of Experience*  
-- [NIETZSCHE, Friedrich](nietzsche-confrontation.html) – *Will to Power vs. Coherence as Ground*  
-- [POPPER, Karl](popper-confrontation.html) – *Falsifiability vs. Structural Discernment*  
-- [QUINE, W.V.O.](quine-confrontation.html) – *Ontological Relativity vs. Structural Necessity*  
-- [RUSSELL, Bertrand](russell-confrontation.html) – *Logical Atomism vs. Structural Integration*  
-- [SAUSSURE, Ferdinand de](saussure-confrontation.html) – *Relational Meaning vs. Structural Meaning*  
-- [SEARLE, John](searle-confrontation.html) – *Syntax vs. Semantics in AI*  
-- [SELLARS, Wilfrid](sellars-confrontation.html) – *Myth of the Given vs. Structured Access*  
-- [SPINOZA, Baruch](spinoza-confrontation.html) – *Monism vs. Domain Duality*  
-- [STRAWSON, Galen](strawson-confrontation.html) – *Basic Particulars vs. Ontological Participation*  
-- [TALLIS, Raymond](tallis-confrontation.html) – *Anti-Reductionism vs. Domain Error*  
-- [TARSKI, Alfred](tarski-confrontation.html) – *Semantic Truth vs. Aetherial Coherence*  
-- [TONONI, Giulio](tononi-confrontation.html) – *Integrated Information Theory vs. Structural Participation*  
-- [WHITEHEAD, Alfred North](whitehead-confrontation.html) – *Process Philosophy vs. Structural Continuity*  
-- [WITTGENSTEIN, Ludwig](wittgenstein-confrontation.html) – *Language-Games vs. Structural Meaning*
+[Barthes, Roland](barthes-confrontation.html) – *Text, Myth, and Structural Meaning*  
+[Blackmore, Susan](blackmore-confrontation.html) – *Memetics vs. Structural Origination*  
+[Carnap, Rudolf](carnap-confrontation.html) – *Verification, Positivism, and the Domain Problem*  
+[Cartwright, Nancy](cartwright-confrontation.html) – *Nomological Machines vs. Structural Force*  
+[Chalmers, David](chalmers-confrontation.html) – *The Hard Problem vs. Structural Presence*  
+[Churchland, Paul](churchland-confrontation.html) – *Eliminativism vs. Aetherial Meaning*  
+[Deleuze, Gilles](deleuze-confrontation.html) – *Difference, Flux, and Structural Identity*  
+[Dennett, Daniel](dennett-confrontation.html) – *Intentional Stance vs. Structural Intelligibility*  
+[Derrida, Jacques](derrida-confrontation.html) – *Deconstruction, Différance, and the Structural Necessity of Meaning*  
+[Descartes, René](descartes-confrontation.html) – *Cogito, Substance Dualism, and the Structural Basis of Identity*  
+[Dewey, John](dewey-confrontation.html) – *Instrumentalism vs. Structural Fidelity*  
+[Foucault, Michel](foucault-confrontation.html) – *Power-Knowledge vs. Structural Constraint*  
+[Gadamer, Hans-Georg](gadamer-confrontation.html) – *Hermeneutics vs. Structural Meaning*  
+[Gödel, Kurt](godel-confrontation.html) – *Incompleteness vs. Structural Coherence*  
+[Goffman, Erving](goffman-confrontation.html) – *Presentation of Self vs. Structural Identity*  
+[Goodman, Nelson](goodman-confrontation.html) – *Worldmaking vs. Structural Reality*  
+[Habermas, Jürgen](habermas-confrontation.html) – *Communicative Rationality vs. Ontological Structure*  
+[Harris, Annaka](annaka-harris-confrontation.html) – *Panpsychism, Epistemic Humility, and the Problem of Consciousness*  
+[Harris, Sam](sam-harris-confrontation.html) – *The Moral Landscape vs. Ontological Structure*  
+[Hegel, G.W.F.](hegel-confrontation.html) – *Dialectical Idealism vs. Structural Ontology*  
+[Heidegger, Martin](heidegger-confrontation.html) – *Being-in-the-World vs. Ontological Structure*  
+[Hume, David](hume-confrontation.html) – *Empirical Skepticism vs. Aetherial Coherence*  
+[Jackson, Frank](jackson-confrontation.html) – *The Knowledge Argument vs. Structural Dual-Domain Ontology*  
+[James, William](james-confrontation.html) – *Pragmatism and Pluralism vs. Structural Truth*  
+[Kuhn, Thomas](kuhn-confrontation.html) – *Paradigm Shifts vs. Structural Continuity*  
+[Lacan, Jacques](lacan-confrontation.html) – *The Symbolic Order vs. Ontological Structure*  
+[Lakatos, Imre](lakatos-confrontation.html) – *Research Programs vs. Ontological Constraint*  
+[Lakoff & Johnson](lakoff-johnson-confrontation.html) – *Embodied Cognition vs. Structural Independence*  
+[Latour, Bruno](latour-confrontation.html) – *Actor-Network Theory vs. Domain-Specific Structure*  
+[Leibniz, Gottfried Wilhelm](leibniz-confrontation.html) – *Monads and the Structural Multiplicity of Experience*  
+[Levinas, Emmanuel](levinas-confrontation.html) – *Ethics as First Philosophy vs. Structural Grounding of Obligation*  
+[Lévi-Strauss, Claude](levi-strauss-confrontation.html) – *Structuralism vs. Structural Ontology*  
+[MacIntyre, Alasdair](macintyre-confrontation.html) – *Moral Tradition vs. Structural Obligation*  
+[Metzinger, Thomas](metzinger-confrontation.html) – *No-Self Theory vs. Structural Continuity of Identity*  
+[Nagel, Thomas](nagel-confrontation.html) – *Subjective Perspective vs. Domain Structure of Experience*  
+[Nietzsche, Friedrich](nietzsche-confrontation.html) – *Will to Power vs. Coherence as Ground*  
+[Panpsychism](panpsychism-confrontation.html) – *Ubiquitous Sentience vs. Structural Experience*  
+[Popper, Karl](popper-confrontation.html) – *Falsifiability vs. Structural Discernment*  
+[Quine, W.V.O.](quine-confrontation.html) – *Ontological Relativity vs. Structural Necessity*  
+[Russell, Bertrand](russell-confrontation.html) – *Logical Atomism vs. Structural Integration*  
+[Saussure, Ferdinand de](saussure-confrontation.html) – *Relational Meaning vs. Structural Meaning*  
+[Searle, John](searle-confrontation.html) – *Syntax vs. Semantics in AI*  
+[Sellars, Wilfrid](sellars-confrontation.html) – *Myth of the Given vs. Structured Access*  
+[Spinoza, Baruch](spinoza-confrontation.html) – *Monism vs. Domain Duality*  
+[Strawson, Galen](strawson-confrontation.html) – *Basic Particulars vs. Ontological Participation*  
+[Tallis, Raymond](tallis-confrontation.html) – *Anti-Reductionism vs. Domain Error*  
+[Tarski, Alfred](tarski-confrontation.html) – *Semantic Truth vs. Aetherial Coherence*  
+[Tononi, Giulio](tononi-confrontation.html) – *Integrated Information Theory vs. Structural Participation*  
+[Whitehead, Alfred North](whitehead-confrontation.html) – *Process Philosophy vs. Structural Continuity*  
+[Wittgenstein, Ludwig](wittgenstein-confrontation.html) – *Language-Games vs. Structural Meaning*
+
 
 ---
 
