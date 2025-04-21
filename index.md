@@ -13,7 +13,7 @@ This site contains the full body of published work, organized for accessibility,
 
 ## 🔍 Public Overview and Release Documents
 
-- [Public Release ReadMe and User Guide](/The-New-Ontology-Public-Release/overview/readme-public-release/index.md)  
+- [Public Release ReadMe and User Guide](/The-New-Ontology-Public-Release/overview/readme-public-release)  
   *A top-level guide to the structure, content, and purpose of the New Ontology public release.*
 
 - [Authorship Declaration](/The-New-Ontology-Public-Release/overview/Authorship-Declaration.md)  
