@@ -37,4 +37,4 @@ Each confrontation will follow a consistent format:
 
 ---
 
-[← Back to Home](/the-new-ontology---public-release/)
+[← Return to Home](/The-New-Ontology-Public-Release/)
