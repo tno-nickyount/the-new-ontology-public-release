@@ -5,24 +5,40 @@ layout: default
 
 # The New Ontology – Public Release
 
-Welcome to the public digital archive of **The New Ontology**, a unified ontological framework designed to reconcile force and meaning, structure and presence, ethics and experience.
+Welcome to the public digital archive of **The New Ontology**, a complete ontological framework designed to reconcile force and meaning, structure and presence, ethics and experience.  
 
-This site contains the complete v1.1 release of the project, including:
+This project is the result of an independent effort to articulate the deepest structural truths about reality — and to demonstrate that those truths are internally coherent, non-redundant, and superior to prevailing metaphysical models.  
 
-- **The Treatise** and **Glossary**
-- **Supplementary Essays**
-- **Confrontations Archive**
-- **Applications and Implications**
-- **Authorship and Public Declaration**
+This site contains the full body of published work, organized for accessibility, critique, and further development. You are invited not to believe, but to test.
 
-## 📘 Public Overview and Release Documents:
-- [Read the Public Release Overview](/the-new-ontology---public-release/overview/)
+---
 
-📂 **Browse Core Materials:**
-- [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary/)
-- [Supplementary Essays](/the-new-ontology---public-release/supplementary-essays/)
-- [Confrontations Archive](/the-new-ontology---public-release/confrontations/)
-- [Applications and Implications](/the-new-ontology---public-release/applications/)
+## 🔍 Public Overview and Release Documents
+
+- [Public Release ReadMe and User Guide](/the-new-ontology---public-release/overview/)  
+  *A top-level guide to the structure, content, and purpose of the New Ontology public release.*
+
+- [Authorship Declaration](/the-new-ontology---public-release/authorship/)  
+  *A formal statement of authorship and licensing, asserting originality and clarifying usage permissions under CC BY-NC-ND 4.0.*
+
+- [Invitation for Open Critique](/the-new-ontology---public-release/critique/)  
+  *An open call to the public for rigorous review, critique, and structural engagement with the framework and its claims.*
+
+---
+
+## 📚 Browse Core Materials
+
+- [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary/)  
+  *Contains the main Treatise, structural Glossary, and symbolic logic foundation. Begin here for the full ontological model.*
+
+- [Supplementary Essays](/the-new-ontology---public-release/supplementary-essays/)  
+  *Detailed elaborations on time, systems, obligation, AI thresholds, quantum resolution, and death.*
+
+- [Confrontations Archive](/the-new-ontology---public-release/confrontations/)  
+  *Direct engagements with historical and contemporary thinkers who pose challenges to the framework.*
+
+- [Applications and Implications](/the-new-ontology---public-release/applications/)  
+  *Bridges the ontology to contemporary fields such as physics, ethics, neuroscience, and evolution.*
 
 ---
 
