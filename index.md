@@ -1,9 +1,8 @@
 ---
-title: The New Ontology – Public Release
 layout: default
 ---
 
-# The New Ontology – Public Release
+# [The New Ontology – Public Release](/the-new-ontology---public-release/)
 
 Welcome to the public digital archive of **The New Ontology**, a complete ontological framework designed to reconcile force and meaning, structure and presence, ethics and experience.  
 
