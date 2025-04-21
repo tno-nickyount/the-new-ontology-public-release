@@ -26,16 +26,16 @@ This site contains the full body of published work, organized for accessibility,
 
 ## 📚 Browse Core Materials
 
-- [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary/)  
+- [Treatise and Glossary](/the-new-ontology---public-release/treatise-and-glossary)  
   *Contains the main Treatise, structural Glossary, and symbolic logic foundation. Begin here for the full ontological model.*
 
-- [Supplementary Essays](/the-new-ontology---public-release/supplementary-essays/)  
+- [Supplementary Essays](/the-new-ontology---public-release/supplementary-essays)  
   *Detailed elaborations on time, systems, obligation, AI thresholds, quantum resolution, and death.*
 
-- [Confrontations Archive](/the-new-ontology---public-release/confrontations/)  
+- [Confrontations Archive](/the-new-ontology---public-release/confrontations)  
   *Direct engagements with historical and contemporary thinkers who pose challenges to the framework.*
 
-- [Applications and Implications](/the-new-ontology---public-release/applications/)  
+- [Applications and Implications](/the-new-ontology---public-release/applications)  
   *Bridges the ontology to contemporary fields such as physics, ethics, neuroscience, and evolution.*
 
 ---
