@@ -13,13 +13,13 @@ This site contains the full body of published work, organized for accessibility,
 
 ## 🔍 Public Overview and Release Documents
 
-- [Public Release ReadMe and User Guide](/the-new-ontology---public-release/overview/)  
+- [Public Release ReadMe and User Guide](/The-New-Ontology-Public-Release/overview/ReadMe-Public-Release.md)  
   *A top-level guide to the structure, content, and purpose of the New Ontology public release.*
 
-- [Authorship Declaration](/the-new-ontology---public-release/authorship/)  
+- [Authorship Declaration](/The-New-Ontology-Public-Release/overview/Authorship-Declaration.md)  
   *A formal statement of authorship and licensing, asserting originality and clarifying usage permissions under CC BY-NC-ND 4.0.*
 
-- [Invitation for Open Critique](/the-new-ontology---public-release/critique/)  
+- [Invitation for Open Critique](/The-New-Ontology-Public-Release/overview/Invitation-Critique.md)  
   *An open call to the public for rigorous review, critique, and structural engagement with the framework and its claims.*
 
 ---
