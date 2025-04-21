@@ -19,4 +19,4 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 
 ---
 
-[← Back to Home](/the-new-ontology---public-release/)
+[← Return to Home](/The-New-Ontology-Public-Release/)
