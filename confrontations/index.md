@@ -34,7 +34,7 @@ Each confrontation will follow a consistent format:
 ## 🔍 Completed Confrontations
 
 - [Barthes](barthes-confrontation.html) – *Semiotics vs. the Ontology of Meaning*
-- [Blackmore](blackmore-confrontation.html) - *Illusionism vs. Structural Experience*
+- [Blackmore](blackmore-confrontation.html) – *Illusionism vs. Structural Experience*
 
 ---
 
