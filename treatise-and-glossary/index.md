@@ -18,4 +18,5 @@ They are designed to be read together, in sequence or by reference.
   A bridge between natural language and symbolic formalism, translating the ontology into a procedural logic.
 
 ---
-[← Back to Home](/the-new-ontology---public-release/)
+
+[← Return to Home](/The-New-Ontology-Public-Release/)
