@@ -41,7 +41,7 @@ This release is organized into five major folders:
 
 To preserve clarity and conceptual flow, we recommend the following order:
 
-1. **Public Release Folder**  
+1. **Public Overview and Release Documents**  
    - Read this file  
    - Then: *Authorship Declaration*  
    - Then: *Invitation for Open Critique*
