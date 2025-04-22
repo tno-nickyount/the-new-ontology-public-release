@@ -50,8 +50,8 @@ Each confrontation will follow a consistent format:
 [Goffman, Erving](goffman-confrontation.html) – *Presentation of Self vs. Structural Identity*  
 [Goodman, Nelson](goodman-confrontation.html) – *Worldmaking vs. Structural Reality*  
 [Habermas, Jürgen](habermas-confrontation.html) – *Communicative Rationality vs. Ontological Structure*  
-[Harris, Annaka](annaka-harris-confrontation.html) – *Panpsychism, Epistemic Humility, and the Problem of Consciousness*  
-[Harris, Sam](sam-harris-confrontation.html) – *The Moral Landscape vs. Ontological Structure*  
+[Harris, Annaka](harris-annaka-confrontation.html) – *Panpsychism, Epistemic Humility, and the Problem of Consciousness*  
+[Harris, Sam](harris-sam-confrontation.html) – *The Moral Landscape vs. Ontological Structure*  
 [Hegel, G.W.F.](hegel-confrontation.html) – *Dialectical Idealism vs. Structural Ontology*  
 [Heidegger, Martin](heidegger-confrontation.html) – *Being-in-the-World vs. Ontological Structure*  
 [Hume, David](hume-confrontation.html) – *Empirical Skepticism vs. Aetherial Coherence*  
@@ -64,8 +64,8 @@ Each confrontation will follow a consistent format:
 [Latour, Bruno](latour-confrontation.html) – *Actor-Network Theory vs. Domain-Specific Structure*  
 [Leibniz, Gottfried Wilhelm](leibniz-confrontation.html) – *Monads and the Structural Multiplicity of Experience*  
 [Levinas, Emmanuel](levinas-confrontation.html) – *Ethics as First Philosophy vs. Structural Grounding of Obligation*  
-[Lévi-Strauss, Claude](levi-strauss-confrontation.html) – *Structuralism vs. Structural Ontology*  
-[MacIntyre, Alasdair](macintyre-confrontation.html) – *Moral Tradition vs. Structural Obligation*  
+[Lévi-Strauss, Claude](levistrauss-confrontation.html) – *Structuralism vs. Structural Ontology*  
+[MacIntyre, Alasdair](macIntyre-confrontation.html) – *Moral Tradition vs. Structural Obligation*  
 [Metzinger, Thomas](metzinger-confrontation.html) – *No-Self Theory vs. Structural Continuity of Identity*  
 [Nagel, Thomas](nagel-confrontation.html) – *Subjective Perspective vs. Domain Structure of Experience*  
 [Nietzsche, Friedrich](nietzsche-confrontation.html) – *Will to Power vs. Coherence as Ground*  
