@@ -23,7 +23,7 @@ These are not speculative add-ons. They are structural demonstrations of how coh
 - [**Quantum Physics, Mathematics, and Language**](quantum-physics-mathematics-and-language.html)  
   Shows how quantum behavior, formal systems, and language each resolve structural tension under constraint. Demonstrates how these systems enact the same principle: constraint yields presence.
 
-- [**Entropy, Optionality, and Structural Coherence**](entropy-optionality-coherence.html)
+- [**Entropy, Optionality, and Structural Coherence**](entropy-optionality-coherence.html)  
   Explores entropy and coherence as cross-domain forces. Defines optionality as valid configuration range and models collapse as structural reduction.
 
 - [**Evolution as a Pathway to Coherency**](evolution-as-a-pathway-to-coherency.html)  
