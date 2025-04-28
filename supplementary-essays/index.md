@@ -6,7 +6,7 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 
 ## Available Essays
 
-- [On Domains: Structure and Sufficiency](/The-New-Ontology-Public-Release/supplementary-essays/1-on-domains-structure-sufficiency.html)
+- [On Domains: Structure and Sufficiency](/The-New-Ontology-Public-Release/supplementary-essays/on-domains-structure-sufficiency.html)
 - [Structural Logic of Formal Systems](/The-New-Ontology-Public-Release/supplementary-essays/structural-logic-formal-systems.html)
 - [The Relationship of Objects and Forms](/The-New-Ontology-Public-Release/supplementary-essays/2-relationship-of-objects-and-forms.html)
 - [Mathematics as Meaning](/The-New-Ontology-Public-Release/supplementary-essays/3-mathematics-as-meaning.html)
