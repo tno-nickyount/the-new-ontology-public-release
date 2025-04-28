@@ -13,7 +13,10 @@ These are not speculative add-ons. They are structural demonstrations of how coh
 
 - [**AI Alignment under the New Ontology**](AI-alignment-application.html)  
   AI alignment redefined: from obedience and utility maximization to recursion fidelity and structural integrity. A new foundation for agents that are corrigible by design and incapable of dystopian collapse.
-  
+
+- [**Autonomous Vehicles and Alignment**](autonomous-vehicles-application.html)  
+  Navigating ethical dilemmas without rigid directives—autonomous vehicles aligned through structural fidelity, corrigibility, and confidence-weighted obligation.
+    
 - [**Formalizing Moral and Social Obligations**](formalizing-moral-and-social-obligations.html)  
   Reframes ethics as a structural matter — not belief, not convention. Proposes formal predicates for evaluating obligation, collapse, and fidelity in individuals and institutions.
 
