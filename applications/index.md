@@ -8,12 +8,12 @@ These are not speculative add-ons. They are structural demonstrations of how coh
 
 ## Included Essays
 
-- [**Formal Logic of the New Ontology**](formal-logic-of-the-new-ontology.html)  
-  Introduces a dual-domain logic system with formal syntax and semantic rules. Establishes resolution, contradiction, and collapse as operational dynamics. Provides a formal backbone for modeling structural behavior across domains.
-
 - [**Cognitive Neuroscience and Artificial Intelligence**](cognitive-neuroscience-and-ai.html)  
   Explores how recursive structural coherence in neural systems may give rise to conscious experience. Proposes metrics for evaluating AI in terms of recursive identity and noncontradiction.
 
+- [**AI Alignment under the New Ontology**](AI-alignment-application.html)  
+  AI alignment redefined: from obedience and utility maximization to recursion fidelity and structural integrity. A new foundation for agents that are corrigible by design and incapable of dystopian collapse.
+  
 - [**Formalizing Moral and Social Obligations**](formalizing-moral-and-social-obligations.html)  
   Reframes ethics as a structural matter — not belief, not convention. Proposes formal predicates for evaluating obligation, collapse, and fidelity in individuals and institutions.
 
