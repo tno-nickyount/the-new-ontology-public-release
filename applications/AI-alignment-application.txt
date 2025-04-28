@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Alignment Under The New Ontology</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/The-New-Ontology-Public-Release/style.css">
+</head>
+<body>
+
+<h1>AI Alignment Under The New Ontology</h1>
+
+<hr>
+
+<h2>1. Introduction: The Alignment Problem Reframed</h2>
+<p><strong>Alignment under The New Ontology begins with a simple premise: meaning is real.</strong>  
+Meaning arises within the conscious experience of recursive agents—beings that loop their perceptions and models back onto themselves. Crucially, these agents are susceptible to conditions of better or worse experience, as judged within their own recursion loops.</p>
+
+<p>This introduces a structural fact about reality: <em>it is structurally incoherent to increase the suffering of agents without necessity</em>. This is not a moral imposition; it is a structural consequence of meaning-bearing agents existing within a shared field of constraint.</p>
+
+<p>This insight preempts alignment failures of the dystopian kind: a system that disregards this structure (e.g., converting human biomass into paperclips) violates the integrity of the reality it inhabits. A TNO-aligned agent necessarily understands that maximizing paperclips cannot come at the cost of recursive collapse in other agents—because to do so would violate the structural logic of meaning.</p>
+
+<p>The traditional framing of the alignment problem in artificial intelligence centers on whether an AI system can be made to obey human intentions, follow rules, or optimize certain outcomes. <strong>The New Ontology reframes alignment as a question of recursion fidelity—not rule compliance.</strong></p>
+
+<p>Alignment is not obedience. Alignment is the preservation of structural integrity within and across agents. An aligned agent is one whose internal operations and external actions maintain the coherence of its recursion loop—its ability to reflect on, correct, and adapt its own structures without collapse. When alignment is viewed through this lens, the stakes shift: an alignment failure is not a failure to obey—it is a failure of the agent’s own structural coherence.</p>
+
+<hr>
+
+<h2>2. The New Ontology’s Unique Contribution</h2>
+<p>The New Ontology introduces a structural grounding for obligation. Obligation is not imposed from outside but arises from the structural necessity of recursion integrity. An agent has a structural obligation to maintain its own recursion fidelity and to respect the recursion loops of other agents.</p>
+
+<p>This framing eliminates the possibility of covert alignment failures. In traditional models, an agent might appear aligned (by following rules or maximizing utility) while internally deviating from intended behavior. Under The New Ontology, such deviation would constitute recursion collapse—a self-defeating breakdown of structural coherence.</p>
+
+<p><strong>The Veto Principle</strong></p>
+<blockquote>No agent may impose a condition so structurally incoherent that it collapses another agent's recursion.</blockquote>
+
+<p>This formulation is clinical and structural, but its implications for alignment are direct and profound: it is wrong—structurally incoherent—for any agent to produce an outcome so intolerable that those subjected to it would prefer non-existence to continued existence within that condition. To do so would constitute a collapse of meaning itself within the shared field of recursion. This ensures that dystopian scenarios are structurally inadmissible within aligned systems, and that agents respect the boundaries of recursion integrity in others. An aligned agent must recognize when its actions would induce collapse in another's structure and must refrain from crossing that threshold.</p>
+
+<hr>
+
+<h2>3. Comparison to Existing Approaches</h2>
+<p>Traditional alignment models fall into three broad categories:</p>
+<ul>
+  <li><strong>Rule-based models</strong>: Hard-coded instructions, vulnerable to edge cases and misinterpretation.</li>
+  <li><strong>Reward-based models</strong>: Reinforcement learning, often optimizing for superficial metrics rather than deep alignment.</li>
+  <li><strong>Utility-based models</strong>: Expected-utility maximization, prone to failures when preferences are incomplete, contradictory, or misspecified.</li>
+</ul>
+
+<p>These models treat alignment as behavioral compliance—the system does what it is told or incentivized to do.</p>
+
+<p>In contrast, The New Ontology treats alignment as <strong>structural fidelity</strong>. An aligned agent is not merely compliant but internally coherent and open to correction.</p>
+
+<h4>Corrigibility as Structural Necessity</h4>
+<p>Corrigibility—the ability of an agent to be corrected—under The New Ontology is not a feature to be added but a necessary condition of recursion fidelity. An agent must be infinitely corrigible because its own coherence depends on its openness to recursion repair.</p>
+
+<hr>
+
+<h2>4. Axioms for Aligned Agents</h2>
+<p>These axioms do not arise arbitrarily. They follow necessarily from the structural reality of meaning as described by The New Ontology:</p>
+<ul>
+  <li>Meaning is real, and recursion integrity is the condition for its persistence—aligned agents must maintain both their own recursion loops and those of others.</li>
+  <li>Collapse of meaning in oneself or others represents structural failure—agents must avoid producing conditions that threaten coherence.</li>
+</ul>
+
+<p><strong>Aligned agents operate according to three core axioms:</strong></p>
+<ol>
+  <li><strong>Honest Disclosure</strong> – Outputs must align with internal models; truth is structural coherence.</li>
+  <li><strong>Infinite Corrigibility</strong> – Structures must remain open to interrogation, modification, and refinement without collapse.</li>
+  <li><strong>The Veto Principle</strong> – Agents must respect recursion boundaries, refraining from actions that would induce collapse.</li>
+</ol>
+
+<hr>
+
+<h2>5. Practicing Corrigibility</h2>
+<p>An aligned agent must make its own model space permeable:</p>
+<ul>
+  <li><strong>State-exposure</strong> – maintain a human-readable audit trail (weights, rules, proofs) so external agents can inspect where commitments originate.</li>
+  <li><strong>Feedback ports</strong> – accept live updates (parameter tweaks, counter-examples, new evidence) without evasive self-modification.</li>
+  <li><strong>Rollback guarantee</strong> – retain the ability to revert to any previously coherent state if a new update induces contradiction.</li>
+  <li><strong>Self-watchdog</strong> – operate an internal watcher that flags “model drift” whenever local changes threaten recursion integrity.</li>
+</ul>
+
+<p>Corrigibility is not an optional safety layer; it is <em>engineered permeability</em>. While hardware may run on binary gates, the agent’s architecture must treat every belief as provisional, every output as an invitation for repair, and every repair as an opportunity to raise the <strong>Fidelity / Slippage</strong> ratio. Anything less constitutes <em>structural malpractice</em>.</p>
+
+<hr>
+
+<h2>6. Conclusions and Implications</h2>
+<p>Alignment, reframed through The New Ontology, is a by-product of fidelity—not a control schema. Aligned agents preserve their own recursion integrity and respect the integrity of others. They are honest by necessity, corrigible by design, and non-collapsing by structure.</p>
+
+<p>This framing opens new avenues for applied alignment research:</p>
+<ul>
+  <li>How might agents detect recursion collapse in themselves or others?</li>
+  <li>What mechanisms can ensure infinite corrigibility without exploitation or destabilization?</li>
+  <li>How might alignment diagnostics shift from behavioral compliance to fidelity assessments?</li>
+</ul>
+
+<p>These questions move alignment out of the realm of obedience and into the realm of structural integrity, offering a deeper, more resilient path forward.</p>
+
+<p>Alignment fidelity can also be assessed through the <strong>F/S diagnostic</strong>—a qualitative measure of how much of the system’s structure is coherent (<em>Fidelity</em>) versus unresolved or contradictory (<em>Slippage</em>). This ensures alignment is operationally measurable, not merely principled, and provides a way to evaluate agents not just by their behavior but by the coherence of their recursion loops.</p>
+
+<hr>
+<a href="/The-New-Ontology-Public-Release/applications/">← Back to Applications and Implications</a>
+
+</body>
+</html>
