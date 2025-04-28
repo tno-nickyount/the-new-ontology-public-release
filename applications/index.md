@@ -8,17 +8,17 @@ These are not speculative add-ons. They are structural demonstrations of how coh
 
 ## Included Essays
 
-- [**Cognitive Neuroscience and Artificial Intelligence**](cognitive-neuroscience-and-ai.html)  
-  Explores how recursive structural coherence in neural systems may give rise to conscious experience. Proposes metrics for evaluating AI in terms of recursive identity and noncontradiction.
-
+- [**Formalizing Moral and Social Obligations**](formalizing-moral-and-social-obligations.html)  
+  Reframes ethics as a structural matter — not belief, not convention. Proposes formal predicates for evaluating obligation, collapse, and fidelity in individuals and institutions.
+  
 - [**AI Alignment under the New Ontology**](AI-alignment-application.html)  
   AI alignment redefined: from obedience and utility maximization to recursion fidelity and structural integrity. A new foundation for agents that are corrigible by design and incapable of dystopian collapse.
 
 - [**Autonomous Vehicles and Alignment**](autonomous-vehicles-application.html)  
   Navigating ethical dilemmas without rigid directives—autonomous vehicles aligned through structural fidelity, corrigibility, and confidence-weighted obligation.
     
-- [**Formalizing Moral and Social Obligations**](formalizing-moral-and-social-obligations.html)  
-  Reframes ethics as a structural matter — not belief, not convention. Proposes formal predicates for evaluating obligation, collapse, and fidelity in individuals and institutions.
+- [**Cognitive Neuroscience and Artificial Intelligence**](cognitive-neuroscience-and-ai.html)  
+  Explores how recursive structural coherence in neural systems may give rise to conscious experience. Proposes metrics for evaluating AI in terms of recursive identity and noncontradiction.
 
 - [**Sociology and Anthropology**](sociology-and-anthropology.html)  
   Examines how social and cultural systems persist through structurally coherent meaning-practice alignments. Proposes models for assessing cohesion through the lens of noncontradiction.
