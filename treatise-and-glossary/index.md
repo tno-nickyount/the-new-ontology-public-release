@@ -14,7 +14,7 @@ They are designed to be read together, in sequence or by reference.
 - [📗 Glossary of Core Terms](/The-New-Ontology-Public-Release/assets/pdfs/Glossary.pdf)  
   Precise definitions of every term used in the framework, structured for cross-domain clarity and structural fidelity.
 
-- [📙 Structural Logic of Formal Systems](/The-New-Ontology-Public-Release/treatise-and-glossary/symbolic-foundation-structural-logic.html)  
+- [📙 Symbolic Foundations](/The-New-Ontology-Public-Release/treatise-and-glossary/symbolic-foundation-structural-logic.html)  
   A bridge between natural language and symbolic formalism, translating the ontology into a procedural logic.
 
 ---
