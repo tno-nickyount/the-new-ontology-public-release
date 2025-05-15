@@ -23,9 +23,6 @@ These are not speculative add-ons. They are structural demonstrations of how coh
 - [**Sociology and Anthropology**](sociology-and-anthropology.html)  
   Examines how social and cultural systems persist through structurally coherent meaning-practice alignments. Proposes models for assessing cohesion through the lens of noncontradiction.
 
-- [**Quantum Physics, Mathematics, and Language**](quantum-physics-mathematics-and-language.html)  
-  Shows how quantum behavior, formal systems, and language each resolve structural tension under constraint. Demonstrates how these systems enact the same principle: constraint yields presence.
-
 - [**Entropy, Optionality, and Structural Coherence**](entropy-optionality-coherence.html)  
   Explores entropy and coherence as cross-domain forces. Defines optionality as valid configuration range and models collapse as structural reduction.
 
