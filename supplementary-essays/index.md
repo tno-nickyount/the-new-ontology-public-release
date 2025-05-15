@@ -16,7 +16,7 @@ Each essay addresses a specific facet of the New Ontology and is self-contained.
 - [AI and the Threshold of Experience](/The-New-Ontology-Public-Release/supplementary-essays/7-ai-threshold-experience.html)
 - [The Structure of Obligation](/The-New-Ontology-Public-Release/supplementary-essays/8-structure-of-obligation.html)
 - [Death and the End of Recursion](/The-New-Ontology-Public-Release/supplementary-essays/9-death-and-the-end-of-recursion.html)
-- [Quantum Resolution and the Structure of Possibility](/The-New-Ontology-Public-Release/supplementary-essays/10-quantum-resolution-possibility.html)
+- [Quantum Resolution: Collapse and Possibility](/The-New-Ontology-Public-Release/supplementary-essays/quantum-resolution-collapse-possibility.html)
 
 ---
 
